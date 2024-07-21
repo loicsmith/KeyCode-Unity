@@ -60,33 +60,33 @@
 - **Alpha7**: 55            # Touche "7" (caractère)
 - **Alpha8**: 56            # Touche "8" (caractère)
 - **Alpha9**: 57            # Touche "9" (caractère)
-- **Exclaim**: 33           # Touche point d'exclamation
-- **DoubleQuote**: 34       # Touche guillemet double
-- **Hash**: 35              # Touche dièse
-- **Dollar**: 36            # Touche dollar
-- **Percent**: 37           # Touche pourcentage
-- **Ampersand**: 38         # Touche esperluette
+- ~~**Exclaim**: 33           # Touche point d'exclamation~~ (obsolète)
+- ~~**DoubleQuote**: 34       # Touche guillemet double~~ (obsolète)
+- ~~**Hash**: 35              # Touche dièse~~ (obsolète)
+- ~~**Dollar**: 36            # Touche dollar~~ (obsolète)
+- ~~**Percent**: 37           # Touche pourcentage~~ (obsolète)
+- ~~**Ampersand**: 38         # Touche esperluette~~ (obsolète)
 - **Quote**: 39             # Touche guillemet simple
-- **LeftParen**: 40         # Touche parenthèse gauche
-- **RightParen**: 41        # Touche parenthèse droite
-- **Asterisk**: 42          # Touche astérisque
-- **Plus**: 43              # Touche plus
+- ~~**LeftParen**: 40         # Touche parenthèse gauche~~ (obsolète)
+- ~~**RightParen**: 41        # Touche parenthèse droite~~ (obsolète)
+- ~~**Asterisk**: 42          # Touche astérisque~~ (obsolète)
+- ~~**Plus**: 43              # Touche plus~~ (obsolète)
 - **Comma**: 44             # Touche virgule
 - **Minus**: 45             # Touche moins
 - **Period**: 46            # Touche point
 - **Slash**: 47             # Touche barre oblique
-- **Colon**: 58             # Touche deux-points
+- ~~**Colon**: 58             # Touche deux-points~~ (obsolète)
 - **Semicolon**: 59         # Touche point-virgule
-- **Less**: 60              # Touche inférieur à
+- ~~**Less**: 60              # Touche inférieur à~~ (obsolète)
 - **Equals**: 61            # Touche égal
-- **Greater**: 62           # Touche supérieur à
-- **Question**: 63          # Touche point d'interrogation
-- **At**: 64                # Touche arobase
+- ~~**Greater**: 62           # Touche supérieur à~~ (obsolète)
+- ~~**Question**: 63          # Touche point d'interrogation~~ (obsolète)
+- ~~**At**: 64                # Touche arobase~~ (obsolète)
 - **LeftBracket**: 91       # Touche crochet gauche
 - **Backslash**: 92         # Touche barre oblique inversée
 - **RightBracket**: 93      # Touche crochet droit
-- **Caret**: 94             # Touche accent circonflexe
-- **Underscore**: 95        # Touche tiret bas
+- ~~**Caret**: 94             # Touche accent circonflexe~~ (obsolète)
+- ~~**Underscore**: 95        # Touche tiret bas~~ (obsolète)
 - **BackQuote**: 96         # Touche accent grave
 - **A**: 97                 # Touche "A"
 - **B**: 98                 # Touche "B"
@@ -114,10 +114,10 @@
 - **X**: 120                # Touche "X"
 - **Y**: 121                # Touche "Y"
 - **Z**: 122                # Touche "Z"
-- **LeftCurlyBracket**: 123 # Touche accolade gauche
-- **Pipe**: 124             # Touche barre verticale
-- **RightCurlyBracket**: 125# Touche accolade droite
-- **Tilde**: 126            # Touche tilde
+- ~~**LeftCurlyBracket**: 123 # Touche accolade gauche~~ (obsolète)
+- ~~**Pipe**: 124             # Touche barre verticale~~ (obsolète)
+- ~~**RightCurlyBracket**: 125# Touche accolade droite~~ (obsolète)
+- ~~**Tilde**: 126            # Touche tilde~~ (obsolète)
 - **Numlock**: 300          # Touche verrouillage numérique
 - **CapsLock**: 301         # Touche verrouillage majuscules
 - **ScrollLock**: 302       # Touche défilement
@@ -130,16 +130,16 @@
 - **LeftMeta**: 310         # Touche Meta (Windows/Command) gauche
 - **LeftCommand**: 310      # Touche Commande (Mac) gauche
 - **LeftApple**: 310        # Touche Apple (Mac) gauche
-- **LeftWindows**: 311      # Touche Windows gauche
+- ~~**LeftWindows**: 311      # Touche Windows gauche~~ (obsolète)
 - **RightMeta**: 309        # Touche Meta (Windows/Command) droite
 - **RightCommand**: 309     # Touche Commande (Mac) droite
 - **RightApple**: 309       # Touche Apple (Mac) droite
-- **RightWindows**: 312     # Touche Windows droite
-- **AltGr**: 313            # Touche Alt Graph (utilisée pour les caractères spéciaux)
-- **Help**: 315             # Touche d'aide (non standard)
+- ~~**RightWindows**: 312     # Touche Windows droite~~ (obsolète)
+- ~~**AltGr**: 313            # Touche Alt Graph (utilisée pour les caractères spéciaux)~~ (obsolète)
+- ~~**Help**: 315             # Touche d'aide (non standard)~~ (obsolète)
 - **Print**: 316            # Touche Impr écran
-- **SysReq**: 317           # Touche Système Requis (rarement utilisée)
-- **Break**: 318            # Touche Pause/Interruption
+- ~~**SysReq**: 317           # Touche Système Requis (rarement utilisée)~~ (obsolète)
+- ~~**Break**: 318            # Touche Pause/Interruption~~ (obsolète)
 - **Menu**: 319             # Touche Menu (généralement ouvre le menu contextuel)
 - **Mouse0**: 323           # Bouton gauche de la souris
 - **Mouse1**: 324           # Bouton droit de la souris
